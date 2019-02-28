@@ -1,0 +1,3 @@
+Nodirbek;MD;12345678;visa
+Xurshid;ME;87654321;visa
+Javlon;ME;888888888;mastercard
